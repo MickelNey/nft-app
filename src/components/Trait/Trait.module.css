@@ -1,0 +1,21 @@
+.trait {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+.trait_title {
+    font-size: 12px;
+    color: var(--secondary-color);
+}
+.trait_value {
+    font-weight: bold;
+    color: var(--main-color);
+    text-align: center;
+}

@@ -1,0 +1,1 @@
+export const baseUrl = 'https://api.opensea.io/api/v1/'
